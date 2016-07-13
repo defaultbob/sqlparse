@@ -1,4 +1,4 @@
-python-sqlparse - Parse SQL statements
+python-sqlparse - Parse MDL statements
 ======================================
 
 sqlparse is a non-validating SQL parser module for Python.
